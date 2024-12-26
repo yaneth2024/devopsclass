@@ -85,3 +85,24 @@ Una vez instalado, ejecuta el siguiente comando:
 
 ```bash
 npm start
+
+
+
+---
+
+---
+***
+
+# Proyecto Asombroso
+
+Una herramienta increíble que resuelve el problema X de manera eficiente. Esta aplicación permite a los usuarios Y realizar tareas Z.
+
+![Estado de la construcción](https://img.shields.io/badge/build-passing-brightgreen)
+
+## Tabla de Contenidos
+
+1. [Instalación](#instalación)
+2. [Uso](#uso)
+3. [Contribución](#contribución)
+4. [Licencia](#licencia)
+5. [Contacto](#contacto)
